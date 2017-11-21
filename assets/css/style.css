@@ -575,4 +575,13 @@ section{
 	display:inline;
 }
 
-	
+/* workaround to prevent firefox displaying transparent text in input fields */
+
+.form-control {
+	height: auto;
+}
+
+/*remove bullets from js alerts for form field*/
+ul {
+  list-style-type: none;
+}
