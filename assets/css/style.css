@@ -404,7 +404,7 @@ section{
 
 
 .ubutia-quote{
-	background-image: url(../images/3.jpg);
+	background-image: url(../images/calm.jpg);
 	/*padding: 120px 0;*/
 	color: #fff;
 	font-style: italic;
@@ -562,4 +562,10 @@ section{
 
 .alt-font {
 	font-family: Garamond, helvetica;
+}
+.sched-widg {
+		padding-bottom:1em;
+}
+.cla-loc {
+	text-align:left;
 }
