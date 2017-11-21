@@ -503,7 +503,7 @@ section{
 	color: #51c2b9;
 }
 .footer p{
-	font-size: 21px;
+	font-size: 15px;
 	color: #fff;
 	margin-bottom: 0;
 }
@@ -566,6 +566,13 @@ section{
 .sched-widg {
 		padding-bottom:1em;
 }
+
+/*class location aligned to left */
 .cla-loc {
 	text-align:left;
 }
+.foot-img{
+	display:inline;
+}
+
+	
