@@ -585,3 +585,7 @@ section{
 ul {
   list-style-type: none;
 }
+
+.navigation-bar {
+	margin-top:1em;
+}
