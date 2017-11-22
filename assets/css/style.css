@@ -146,24 +146,7 @@ section{
     height: 68px;
 	display:block;
 }
-.graphic-design{
-	background:transparent url(../images/graphic-design.png) no-repeat;
-    width: 120px;
-    height: 120px;
-	display:block;
-}
-.webdevelopment{
-	background:transparent url(../images/webdevelopment.png) no-repeat;
-    width: 120px;
-    height: 120px;
-	display:block;
-}
-.printing{
-	background:transparent url(../images/printing.png) no-repeat;
-    width: 120px;
-    height: 120px;
-	display:block;
-}
+
 .play-icon{
 	background:transparent url(../images/video-play-icon.png) no-repeat;
     width: 70px;
@@ -332,7 +315,7 @@ section{
 /*Home page*/
 .header{
 	background-image: url(../images/class.jpeg);
-	height: 100vh;
+	height: auto;
 	position: relative;
 	min-height: 659px;
 }
@@ -547,8 +530,8 @@ section{
 /* custom styling outwith template */
 
 .emn-logo {
-	height: 40em;
-	width:40em;
+	height: 60%;
+	/* width:40em; */
 	display:inline-block;
 	margin-left:auto;
 	margin-right:auto;
